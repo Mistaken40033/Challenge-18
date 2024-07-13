@@ -22,7 +22,8 @@ Viewing departments, roles, employees, adding Departments, adding role, adding e
 This project is licensed under the None license.
 
 ## Contributing
-n/a
+- ChatGpt
+- Youtube link : https://youtu.be/yDM_kKLZEYo
 
 ## Tests
 open the terminal then type "node index.js"
